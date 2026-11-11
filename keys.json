@@ -1,5 +1,12 @@
 [
   {
+    "h": "a9df5feb37069c50",
+    "nick": "",
+    "label": "",
+    "exp": 0,
+    "revoked": false
+  },
+  {
     "h": "1eb353a8cba75725",
     "nick": "",
     "label": "MASTER (admin)",
